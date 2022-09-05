@@ -8,4 +8,5 @@ i changed the weekdays order, but you can use the traditional order by changing 
 you can use it in your rices, maybe. or whatever else, no copyright for me.
 
 preview
-![](https://imgur.com/a/kyKq89B)
+
+<img src="https://i.imgur.com/qYNGbZn.png"/>
